@@ -681,7 +681,7 @@
 				GCC_PREFIX_HEADER = YAML_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				OTHER_CFLAGS = "-DHAVE_CONFIG_H";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.${PRODUCT_NAME:rfc1034Identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alexlee.potatso.YAML;
 				PRODUCT_NAME = YAML;
 				WRAPPER_EXTENSION = framework;
 			};
@@ -701,7 +701,7 @@
 				GCC_PREFIX_HEADER = YAML_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				OTHER_CFLAGS = "-DHAVE_CONFIG_H";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.${PRODUCT_NAME:rfc1034Identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alexlee.potatso.YAML;
 				PRODUCT_NAME = YAML;
 				WRAPPER_EXTENSION = framework;
 			};
@@ -858,7 +858,7 @@
 				MODULEMAP_FILE = "$(SRCROOT)/module.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_CFLAGS = "-DHAVE_CONFIG_H";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.YAML;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alexlee.potatso.YAML;
 				PRODUCT_NAME = YAML;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -908,7 +908,7 @@
 				MODULEMAP_FILE = "$(SRCROOT)/module.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_CFLAGS = "-DHAVE_CONFIG_H";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.YAML;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alexlee.potatso.YAML;
 				PRODUCT_NAME = YAML;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
